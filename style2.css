@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+}
+
+header a {
+    color: #255C20;
+    border: 3px solid #75D86E;
+    border-radius: 100px;
+    text-decoration: none;
+    padding: 3px;
+    font-size: 23px;
+}
+
+p {
+    font-size: 20px;
+    color: #0E460A;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: darkgreen;
+}
+
+h2 {
+    font-size: 34px;
+    color: darkgreen;
+}
+
+ul {
+    font-size: 20px;
+}
+
+li {
+    border: 3px solid #75D86E;
+    border-radius: 25px;
+    padding: 3px;
+    color: #0E460A;
+}
+
+footer p {
+    color: darkgreen;
+}
+
+footer {
+    padding: 10px;
+}
+
+footer img {
+    width: 120px;
+}
+
+li a {
+    color: #00b69e;
+    text-decoration: none;
+}
+
+li a ::visited {
+    color: #0d9e97
+}
